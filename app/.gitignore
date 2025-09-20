@@ -1,0 +1,22 @@
+# CodeIgniter 4 specific
+/writable/
+/tests/_support/_generated/
+/.env
+/.idea
+
+# Composer
+/vendor/
+composer.lock
+
+# Node
+/node_modules/
+
+# Common files
+nbproject/
+*~
+*.log
+*.patch
+*.bak
+*.swo
+.DS_Store
+Thumbs.db
